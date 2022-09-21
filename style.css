@@ -1,0 +1,18 @@
+.heading {
+
+    font-family: 'Nabla', cursive;
+    font-size: 30px;
+   box-shadow:1px 3px 40px rgb(100, 57, 100) ; 
+}
+
+.heading_1 {
+    font-size: 15px;
+
+    box-shadow:1px 2px 40px rgb(237, 242, 95);
+}
+
+.heading_2 {
+    font-size: 20px;
+    box-shadow:1px 2px 8px rgb(250, 3, 250);
+   
+}
